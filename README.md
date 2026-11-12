@@ -101,7 +101,7 @@
 <p align="center">
   <a href="https://www.fabiosibilla.it"><img src="https://img.shields.io/badge/Portfolio-1F3A72?style=for-the-badge&logo=googlechrome&logoColor=F4F1E9" alt="Portfolio" /></a>
   &nbsp;
-  <a href="mailto:fabio.sibilla04@gmail.com"><img src="https://img.shields.io/badge/fabio.sibilla04@gmail.com-0A0A09?style=for-the-badge&logo=gmail&logoColor=8DA4D6" alt="Email" /></a>
+  <a href="mailto: info@fabiosibilla.it"><img src="https://img.shields.io/badge/fabio.sibilla04@gmail.com-0A0A09?style=for-the-badge&logo=gmail&logoColor=8DA4D6" alt="Email" /></a>
 </p>
 
 <p align="center">
