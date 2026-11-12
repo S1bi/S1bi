@@ -68,7 +68,9 @@ I learn quickly, have a strong problem-solving attitude, and enjoy working in te
 
 <h3 align="left">Currently working on:</h3>
 <p align="left">
-  Principalmente progetti legati all'università, nulla di pubblico al momento.
+  <a href="https://dokk.fabiosibilla.it"><b>Dokk</b></a>: la web app per gestire veicoli, scadenze, rifornimenti e spese, anche condividendo il garage con altri. Ti avvisa prima delle scadenze, non dopo.<br>
+  <i>Nuxt · TypeScript · Supabase · Firebase · Tailwind CSS</i><br>
+  <a href="https://dokk.fabiosibilla.it">Scopri Dokk su dokk.fabiosibilla.it</a> · <a href="https://app.dokk.fabiosibilla.it">Apri l'app</a>
 </p>
 
 ---
